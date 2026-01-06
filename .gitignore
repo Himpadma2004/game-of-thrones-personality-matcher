@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+profiling-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large ML files (optional)
+*.pkl
